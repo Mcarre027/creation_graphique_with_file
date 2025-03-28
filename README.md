@@ -27,7 +27,8 @@ Ce projet vous montre comment :
 ## 🚀 Comment utiliser ce projet
 
 1. Ouvrir le notebook dans Google Colab :  
-👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/votre-utilisateur/graphique-excel-plotly/blob/main/Graphique_depuis_Excel.ipynb](https://colab.research.google.com/drive/1n016iUD_NzPj4m1ubHRzGez9tpwrlT-g))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n016iUD_NzPj4m1ubHRzGez9tpwrlT-g)
+
 
 2. Charger votre propre fichier Excel quand demandé (`ventes_par_produit.xlsx`, par exemple)
 
