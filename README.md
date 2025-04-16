@@ -75,4 +75,4 @@ Ce projet rend la data visualisation accessible **en quelques minutes**, sans ou
 ## 📬 Contact
 
 Pour toute suggestion ou retour :  
-👉 [LinkedIn – Mathieu Carré](https://www.linkedin.com/in/mathieucarre/)
+👉 [LinkedIn – Mathieu Carré](https://www.linkedin.com/in/matthieu-carre-data/)
